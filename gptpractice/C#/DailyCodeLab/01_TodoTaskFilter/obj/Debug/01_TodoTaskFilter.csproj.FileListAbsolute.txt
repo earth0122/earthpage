@@ -1,0 +1,8 @@
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\bin\Debug\01_TodoTaskFilter.exe.config
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\bin\Debug\01_TodoTaskFilter.exe
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\bin\Debug\01_TodoTaskFilter.pdb
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\obj\Debug\01_TodoTaskFilter.csproj.AssemblyReference.cache
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\obj\Debug\01_TodoTaskFilter.csproj.CoreCompileInputs.cache
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\obj\Debug\01_TodoTaskFilter.exe
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\obj\Debug\01_TodoTaskFilter.pdb
+E:\程式\可改\新公開git\gptpractice\C#\DailyCodeLab\01_TodoTaskFilter\obj\Debug\01_TodoTaskFilter.exe.config

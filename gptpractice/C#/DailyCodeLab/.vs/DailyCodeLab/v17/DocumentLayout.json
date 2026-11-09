@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\C#\\DailyCodeLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAEB9FA-7B10-4F9F-8990-70F783BD639A}|01_TodoTaskFilter\\01_TodoTaskFilter.csproj|E:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\C#\\DailyCodeLab\\01_todotaskfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAEB9FA-7B10-4F9F-8990-70F783BD639A}|01_TodoTaskFilter\\01_TodoTaskFilter.csproj|solutionrelative:01_todotaskfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAEB9FA-7B10-4F9F-8990-70F783BD639A}|01_TodoTaskFilter\\01_TodoTaskFilter.csproj|e:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\c#\\dailycodelab\\01_todotaskfilter\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAEB9FA-7B10-4F9F-8990-70F783BD639A}|01_TodoTaskFilter\\01_TodoTaskFilter.csproj|solutionrelative:01_todotaskfilter\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\C#\\DailyCodeLab\\01_TodoTaskFilter\\TodoItem.cs",
+              "RelativeDocumentMoniker": "01_TodoTaskFilter\\TodoItem.cs",
+              "ToolTip": "E:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\C#\\DailyCodeLab\\01_TodoTaskFilter\\TodoItem.cs",
+              "RelativeToolTip": "01_TodoTaskFilter\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T09:24:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\C#\\DailyCodeLab\\01_TodoTaskFilter\\Program.cs",
+              "RelativeDocumentMoniker": "01_TodoTaskFilter\\Program.cs",
+              "ToolTip": "E:\\\u7A0B\u5F0F\\\u53EF\u6539\\\u65B0\u516C\u958Bgit\\gptpractice\\C#\\DailyCodeLab\\01_TodoTaskFilter\\Program.cs",
+              "RelativeToolTip": "01_TodoTaskFilter\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:50:30.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
